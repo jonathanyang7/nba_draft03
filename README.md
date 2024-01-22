@@ -1,5 +1,5 @@
 # nba_draft03
-Key skills: Python (Pandas, NumPy, Matplotlib) to wrangle, clean, and visualise data
+Key skills: Python (Pandas, NumPy, Matplotlib) to wrangle, clean, and visualise data.
 
 Analysis of the performance of the top 3 picks from the 2003 NBA draft.
 
